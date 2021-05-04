@@ -11,3 +11,12 @@
     Status: :construction: ongoing </br>
     demo: https://rqguzman-dsvendas-devsuperior.netlify.app/
 </p>
+
+## LICENSE
+
+[![License: GPL-2.0](https://img.shields.io/github/license/rqguzman/dsvendas-devsuperior?color=0F80c0)](https://github.com/rqguzman/dsvendas-devsuperior/blob/main/LICENSE)
+   
+### BUILT WITH  
+<p>
+    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">       
+</p>
