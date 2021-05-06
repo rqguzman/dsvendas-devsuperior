@@ -7,6 +7,8 @@ import java.time.LocalDate;
 
 public class SaleDTO implements Serializable {
 
+    private static final Long serialVersionUID = 1L;
+
     private Long id;
     private Integer visited;
     private Integer deals;
