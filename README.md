@@ -26,11 +26,15 @@
 </p>
 <p>
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/frameworks/spring.svg" alt="Spring" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/frameworks/spring_boot.svg" alt="Spring" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/typescript.svg" alt="TypeScript" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/frameworks/bootstrap.svg" alt="TypeScript" style="vertical-align:top margin:6px 4px">
 </p>
 
+### SERVICES
+<p>
+    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/services/heroku.svg" alt="React" style="vertical-align:top margin:6px 4px">   
+</p>
 
 ### BUILT WITH  
 <p>
