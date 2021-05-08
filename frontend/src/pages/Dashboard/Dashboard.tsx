@@ -14,17 +14,17 @@ const Dashboard = () => {
                 <div className="row px-3">
 
                     <div className="col-sm-6">
-                        <h5 className="text-center text-secondary">Success rate (%)</h5>
+                        <h5 className="text-center text-secondary">Seller success rate (%)</h5>
                         <BarChart />
                     </div>
 
                     <div className="col-sm-6">
-                        <h5 className="text-center text-secondary">Success rate (%)</h5>
+                        <h5 className="text-center text-secondary">Sales per seller (%)</h5>
                         <DonutChart />
                     </div>
                 </div>
                 <div className="py-3">
-                    <h2 className="text-primary">All sales (%)</h2>
+                    <h2 className="text-primary">All sales</h2>
                 </div>
                 <DataTable />
             </div>
